@@ -1,0 +1,10 @@
+12345 12 kaka 9 popka_tvoya
+98944 56 kisa 1 emma_watson
+66534 31 kaka 3 sherlock_holmes
+72910 32 kaka 2 rene_cutie
+38473 1 kaka 3 suomen_mies
+36954 2 rene 3 tuhma_kissa
+55925 3 kaka 6 mama_miafile 
+68353 4 kaka 3 era
+44283 5 lemi 6 lemi
+blank
